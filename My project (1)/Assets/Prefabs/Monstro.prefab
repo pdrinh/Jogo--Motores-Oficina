@@ -171,3 +171,4 @@ MonoBehaviour:
   walkTime: 3
   walkRight: 0
   health: 5
+  damage: 1

@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Security.Cryptography;
@@ -10,6 +11,7 @@ public class Monstro : MonoBehaviour
     public bool walkRight = true;
 
     public int health;
+    public int damage = 1;
 
     private float timer;
 
@@ -55,6 +57,14 @@ public class Monstro : MonoBehaviour
         {
             //destroi o inimigo
             Destroy(gameObject);
+        }
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Player")
+        {
+            collision.gameObject.GetComponent<Player>().Damage(damage);
         }
     }
 }

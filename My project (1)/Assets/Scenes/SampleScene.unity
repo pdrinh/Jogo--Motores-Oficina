@@ -51327,25 +51327,9 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 2447875813441803268, guid: c8b58e4267f030c49a31659ba083e926, type: 3}
-      propertyPath: health
-      value: 5
-      objectReference: {fileID: 0}
     - target: {fileID: 2447875813441803269, guid: c8b58e4267f030c49a31659ba083e926, type: 3}
       propertyPath: m_Name
       value: Monstro
-      objectReference: {fileID: 0}
-    - target: {fileID: 2447875813441803269, guid: c8b58e4267f030c49a31659ba083e926, type: 3}
-      propertyPath: m_TagString
-      value: Enemy
-      objectReference: {fileID: 0}
-    - target: {fileID: 2447875813441803288, guid: c8b58e4267f030c49a31659ba083e926, type: 3}
-      propertyPath: m_SortingOrder
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 2447875813441803288, guid: c8b58e4267f030c49a31659ba083e926, type: 3}
-      propertyPath: m_WasSpriteAssigned
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2447875813441803291, guid: c8b58e4267f030c49a31659ba083e926, type: 3}
       propertyPath: m_RootOrder

@@ -9,8 +9,8 @@ public class GameController : MonoBehaviour
 
     public static GameController instance;
     
-    // Start is called before the first frame update
-    void Start()
+    // Awake é inicializado antes de todos os métodos start() do seu projeto
+    void Awake()
     {
         instance = this;
     }
