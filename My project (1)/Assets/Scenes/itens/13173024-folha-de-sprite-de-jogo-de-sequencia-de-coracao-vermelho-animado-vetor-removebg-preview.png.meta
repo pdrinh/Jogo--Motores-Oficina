@@ -1,0 +1,454 @@
+fileFormatVersion: 2
+guid: f73e70ababc29124a91700fe6c2c6ef1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 13173024-folha-de-sprite-de-jogo-de-sequencia-de-coracao-vermelho-animado-vetor-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 170
+        width: 99
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f16ee0124948d2409104ecdbb00d32f
+      internalID: 503312425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13173024-folha-de-sprite-de-jogo-de-sequencia-de-coracao-vermelho-animado-vetor-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 170
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca01a40f8a5f6f842aeebf4ad7f008f7
+      internalID: -112987629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13173024-folha-de-sprite-de-jogo-de-sequencia-de-coracao-vermelho-animado-vetor-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 169
+        width: 81
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3824e7ed725add4d8af6a63d72fe333
+      internalID: -1646407401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13173024-folha-de-sprite-de-jogo-de-sequencia-de-coracao-vermelho-animado-vetor-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 173
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22d587a0051e99489c9d07494239ba2
+      internalID: -1081375616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13173024-folha-de-sprite-de-jogo-de-sequencia-de-coracao-vermelho-animado-vetor-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 172
+        width: 67
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbcb2c90b8ba9b4c99bb2556b7a477d
+      internalID: 1171267908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13173024-folha-de-sprite-de-jogo-de-sequencia-de-coracao-vermelho-animado-vetor-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 172
+        width: 60
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152f778dbb161f943a95498f01c5dcd8
+      internalID: 983525497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13173024-folha-de-sprite-de-jogo-de-sequencia-de-coracao-vermelho-animado-vetor-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 171
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6bc2cd75b59cc4aaf28717840f648b
+      internalID: -1228582127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13173024-folha-de-sprite-de-jogo-de-sequencia-de-coracao-vermelho-animado-vetor-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 29
+        width: 50
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a24160dcbb7ad4bb7f3d30bb06f54b
+      internalID: -953300701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13173024-folha-de-sprite-de-jogo-de-sequencia-de-coracao-vermelho-animado-vetor-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 29
+        width: 58
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37b867aa49175e4cb3f51556c5fdabb
+      internalID: 1683467631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13173024-folha-de-sprite-de-jogo-de-sequencia-de-coracao-vermelho-animado-vetor-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 28
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbd28d862975204abb3378cdb9092d5
+      internalID: -238618189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13173024-folha-de-sprite-de-jogo-de-sequencia-de-coracao-vermelho-animado-vetor-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 28
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f8cbb0658fb954a8d16c4ab129b20b
+      internalID: 2017442811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13173024-folha-de-sprite-de-jogo-de-sequencia-de-coracao-vermelho-animado-vetor-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 27
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b17085c621929445b326a232d569e21
+      internalID: -570545497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13173024-folha-de-sprite-de-jogo-de-sequencia-de-coracao-vermelho-animado-vetor-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 27
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a31de085edcab4caea56a06d5906f2
+      internalID: -424485972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13173024-folha-de-sprite-de-jogo-de-sequencia-de-coracao-vermelho-animado-vetor-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 27
+        width: 98
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431ca16bd8f797a4fb9a7c66be40d80d
+      internalID: 291968457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      13173024-folha-de-sprite-de-jogo-de-sequencia-de-coracao-vermelho-animado-vetor-removebg-preview_1: -112987629
+      13173024-folha-de-sprite-de-jogo-de-sequencia-de-coracao-vermelho-animado-vetor-removebg-preview_10: 2017442811
+      13173024-folha-de-sprite-de-jogo-de-sequencia-de-coracao-vermelho-animado-vetor-removebg-preview_13: 291968457
+      13173024-folha-de-sprite-de-jogo-de-sequencia-de-coracao-vermelho-animado-vetor-removebg-preview_8: 1683467631
+      13173024-folha-de-sprite-de-jogo-de-sequencia-de-coracao-vermelho-animado-vetor-removebg-preview_4: 1171267908
+      13173024-folha-de-sprite-de-jogo-de-sequencia-de-coracao-vermelho-animado-vetor-removebg-preview_3: -1081375616
+      13173024-folha-de-sprite-de-jogo-de-sequencia-de-coracao-vermelho-animado-vetor-removebg-preview_9: -238618189
+      13173024-folha-de-sprite-de-jogo-de-sequencia-de-coracao-vermelho-animado-vetor-removebg-preview_7: -953300701
+      13173024-folha-de-sprite-de-jogo-de-sequencia-de-coracao-vermelho-animado-vetor-removebg-preview_5: 983525497
+      13173024-folha-de-sprite-de-jogo-de-sequencia-de-coracao-vermelho-animado-vetor-removebg-preview_11: -570545497
+      13173024-folha-de-sprite-de-jogo-de-sequencia-de-coracao-vermelho-animado-vetor-removebg-preview_12: -424485972
+      13173024-folha-de-sprite-de-jogo-de-sequencia-de-coracao-vermelho-animado-vetor-removebg-preview_2: -1646407401
+      13173024-folha-de-sprite-de-jogo-de-sequencia-de-coracao-vermelho-animado-vetor-removebg-preview_6: -1228582127
+      13173024-folha-de-sprite-de-jogo-de-sequencia-de-coracao-vermelho-animado-vetor-removebg-preview_0: 503312425
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
