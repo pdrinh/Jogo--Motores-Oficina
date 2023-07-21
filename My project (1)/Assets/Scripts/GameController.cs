@@ -7,6 +7,9 @@ public class GameController : MonoBehaviour
 {
     public Text healthText;
 
+    public int score;
+    public Text scoreText;
+
     public static GameController instance;
     
     // Awake é inicializado antes de todos os métodos start() do seu projeto
@@ -19,6 +22,12 @@ public class GameController : MonoBehaviour
     void Update()
     {
         
+    }
+
+    public void UpdateScore(int value)
+    {
+        score += value;
+        scoreText.text = score.ToString();
     }
 
     public void UpdateLives(int value)
