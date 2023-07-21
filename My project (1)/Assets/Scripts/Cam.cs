@@ -17,7 +17,7 @@ public class Cam : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(player.position.x >= -5)
+        if(player.position.x >= -5 && player.position.x <= 415 && player.position.y >= -360)
         {
             Vector3 following = new Vector3(player.position.x, transform.position.y, transform.position.z);
             transform.position = Vector3.Lerp(transform.position, following, smooth * Time.deltaTime);
