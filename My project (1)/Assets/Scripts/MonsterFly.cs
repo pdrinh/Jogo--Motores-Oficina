@@ -10,8 +10,8 @@ public class MonsterFly : MonoBehaviour
     public float speed;
     public float walkTime;
     public bool walkRight = true;
-
-    public int health;
+    
+    
     public int damage = 1;
 
     private float timer;
@@ -40,27 +40,14 @@ public class MonsterFly : MonoBehaviour
         if (walkRight)
         {
             transform.eulerAngles = new Vector2(0, 0);
-            rig.velocity = Vector2.right * speed;
+            rig.velocity = Vector2.up * speed;
         }
         else
         {
-            transform.eulerAngles = new Vector2(0, 180);
-            rig.velocity = Vector2.left * speed;
+            transform.eulerAngles = new Vector2(0, 0);
+            rig.velocity = Vector2.down * speed;
         }
-    }
-    
-    public void Damage(int dmg)
-    {
-        health -= dmg;
-        anim.SetTrigger("hit");
-
-        if (health <= 0)
-        {
-            //destroi o inimigo
-            Destroy(gameObject);
-        }
-    }
-
+    } 
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.tag == "Player")
